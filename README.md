@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naav-ux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... tracking mobile number
+- 🌱 I’m currently learning ... cell phone tracking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -10,7 +10,3 @@
 naav-ux/naav-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-phoneinfoga scan -n "+91 9653349122"
-phoneinfoga scan -n "+91 9653349122"
-phoneinfoga scan -n "9653349122"
-
